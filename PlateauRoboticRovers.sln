@@ -5,16 +5,22 @@ VisualStudioVersion = 16.0.808.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlateauRoboticRovers", "PlateauRoboticRovers\PlateauRoboticRovers.csproj", "{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlateauRoboticRoversTest", "PlateauRoboticRoversTest\PlateauRoboticRoversTest.csproj", "{B8707B74-C848-45D9-A309-D512C4EACE0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Debug|anycpu.Build.0 = Debug|anycpu
-		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Release|anycpu.ActiveCfg = Release|anycpu
-		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Release|anycpu.Build.0 = Release|anycpu
+		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{F6D72427-3BE8-4E38-99DA-9E42F9ECF1EC}.Release|anycpu.Build.0 = Release|Any CPU
+		{B8707B74-C848-45D9-A309-D512C4EACE0C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{B8707B74-C848-45D9-A309-D512C4EACE0C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{B8707B74-C848-45D9-A309-D512C4EACE0C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{B8707B74-C848-45D9-A309-D512C4EACE0C}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
